@@ -3,11 +3,10 @@ Forecasts are especially relevant to brick-and-mortar grocery stores, which must
 
 Current subjective forecasting methods for retail have little data to back them up and are unlikely to be automated. The problem becomes even more complex as retailers add new locations with unique needs, new products, ever-transitioning seasonal tastes, and unpredictable product marketing.
 
-Data that's currently being used here is data from Corporación Favorita, a large Ecuadorian-based grocery retailer, that was obtained from an open-source Kaggle. There are 7 datas in the store-sales-time-series-forecasting.zip, such as:
+Data that's currently being used here is data from Corporación Favorita, a large Ecuadorian-based grocery retailer, that was obtained from an open-source Kaggle. There are six datas in the store-sales-time-series-forecasting.zip, such as:
 1. train.csv
 2. test.csv
-3. sample_submission.csv
-4. stores.csv
-5. oil.csv
-6. holiday_events.csv
-7. transactions.csv
+3. stores.csv
+4. oil.csv
+5. holiday_events.csv
+6. transactions.csv
