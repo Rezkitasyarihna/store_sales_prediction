@@ -29,7 +29,7 @@ Recommendation for supermarket management:
 6. Strategic location marketing
 7. Product category expansion
 
-The output of the data modeling is a prediction result for each future transaction with mean absolute error (MAE) 499,09.
+The output of the data modeling is a prediction result for each future transaction with mean absolute error (MAE) 499,09 that can be seen in 'submission.csv'.
 
 Link to PowerPoint for more information:
 https://drive.google.com/file/d/1Hna2evuxnwNGA8skgw6W2gxYeUhsfTkU/view?usp=drive_link
